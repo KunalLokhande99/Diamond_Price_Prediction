@@ -1,5 +1,6 @@
 import sys
 
+
 class customexception(Exception):
     def __init__(self,error_message,error_details:sys):
         self.error_message = error_message
@@ -12,7 +13,8 @@ class customexception(Exception):
         return "Error occured in python script name [{0}] line number [{1}] error message [{2}]".format(
         self.file_name, self.lineno, str(self.error_message))
         
-
+        
+    
 
 if __name__ == "__main__":
     try:
