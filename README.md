@@ -1,4 +1,4 @@
-<p align="center">
+<p align="justify"> 
     ![diamond01](https://github.com/user-attachments/assets/41c51579-94fb-4320-bf6b-554c9ef24f99)
 </p>
 
