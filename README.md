@@ -1,6 +1,5 @@
 ![diamond01](https://github.com/user-attachments/assets/da305895-a10b-437b-bad6-c3c7abd2fa2c)
 
-
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
 <h1 align="center"> Diamond Price Prediction </h1>
@@ -18,10 +17,11 @@
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
+<!-- TECHNICAL SPECIFICATION -->
 <h2> :hammer: Technical Specification</h2>
 
-Python, HTML
-Scikit-learn
+* Python, HTML
+* Scikit-learn
 Pandas, NumPy
 Matplotlib, Seaborn
 Flask (web app)
