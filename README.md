@@ -57,7 +57,7 @@
 <h2> :computer: Project Setup </h2>
 
 * Clone the repository if needed
-   <ul> https://github.com/KunalLokhande99/ETE_project_setup </ul>
+   <ul> https://github.com/KunalLokhande99/Diamond_Price_Prediction </ul>
 
 * steps followed -
 1. create specific folder
