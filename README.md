@@ -1,6 +1,4 @@
-<p align="justify"> 
-    ![diamond01](https://github.com/user-attachments/assets/41c51579-94fb-4320-bf6b-554c9ef24f99)
-</p>
+![diamond01](https://github.com/user-attachments/assets/10b2e694-184f-4ce4-b045-8890bee06bd3)
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
