@@ -53,33 +53,52 @@
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
 
+<!-- PROJECT SETUP -->
+<h2> :computer: Project Setup </h2>
 
+* Clone the repository if needed
+   <ul> https://github.com/KunalLokhande99/ETE_project_setup </ul>
 
-```
-end to end project setup using vs code, git bash, shellscript and python.
-```
-```
-steps followed -
-
+* steps followed -
 1. create specific folder
 2. setup the vs code
 3. setup the gitbash and github
 4. add README.md file
 5. add gitignore file
-
 6. add LICENCE file
      MIT Licence
-
 7. add init_setup.sh (shell script) file
      create virtual environment 
-
 8. add templete.py (python script) file
      contains project structure
-
 9. add or modify setup.py file
      install local package
+10. modifications according to system.
 
-10. modifications according to scenarios.
-```
-```
-guidance - krish naik  sunny savita
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
+
+<!-- CREDITS -->
+<h2> :scroll: Credits</h2>
+
+Kunal Lokhande
+
+- [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalLokhande99/)
+
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunallokhandea99/)
+
+- [![iNeuron Badge](https://img.shields.io/badge/-iNeuron-white?style=style=for-the-badge&logo=iNeuron&logoColor=black)](https://www.ineuron.ai/)
+
+- [![PWSkills Badge](https://img.shields.io/badge/-PWSkills-white?style=style=for-the-badge&logo=PWSkills&logoColor=black)](https://www.pwskills.com/)
+
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+* Guidance - Krish Naik & Sunny Savita
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
