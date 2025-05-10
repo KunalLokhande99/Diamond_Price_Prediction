@@ -18,7 +18,20 @@
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
+<h2> :hammer: Technical Specification</h2>
 
+Python, HTML
+Scikit-learn
+Pandas, NumPy
+Matplotlib, Seaborn
+Flask (web app)
+pip, conda
+Jupyter Notebook
+Git, Github
+VS Code
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
 
 
