@@ -33,6 +33,26 @@
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
+<!-- DATASET DESCRIPTION -->
+<h2> :floppy_disk: Dataset Description</h2>
+
+1. **Objective**: Predict diamond prices using regression analysis based on key diamond characteristics.  
+2. **Size**: Contains ~54,000 entries with 10 features + target variable.  
+3. **Features**:  
+   - `carat`: Weight of the diamond (in carats).  
+   - `cut`: Quality of cut (Fair, Good, Very Good, Premium, Ideal).  
+   - `color`: Graded from D (best) to J (worst).  
+   - `clarity`: Measures internal purity (I1, SI2, SI1, VS2, VS1, VVS2, VVS1, IF).  
+   - Physical dimensions: `depth` (height in mm), `table` (top surface width), and `x/y/z` (3D measurements).  
+4. **Target**: `price` (in USD).  
+5. **Unique Identifier**: `id` for each diamond record.  
+6. **Key Insight**: Combines gemological metrics (cut, clarity) with physical dimensions for accurate pricing.  
+7. **Source**: [Kaggle Competition Dataset](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv).  
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
 
 
 ```
